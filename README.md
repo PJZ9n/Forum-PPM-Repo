@@ -4,4 +4,4 @@
 
 ## 使い方
 
-`/ppm addrepo https://raw.githubusercontent.com/PJZ9n/Forum-PPM-Repo/main/Repo.json`
+`/ppm addrepo https://raw.githubusercontent.com/PJZ9n/Forum-PPM-Repo/main/`
