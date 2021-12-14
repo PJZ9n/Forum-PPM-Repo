@@ -337,7 +337,7 @@
   },
   {
     "name": "NoX-Ray",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/61/download",
     "api": [
       {
@@ -363,7 +363,7 @@
   },
   {
     "name": "chatsync",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://raw.githubusercontent.com/lovetwice1012/chatsync/main/chatsync_v1.phar",
     "api": [
       {
@@ -720,7 +720,7 @@
   },
   {
     "name": "PlayerCrasher",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/591/download",
     "api": [
       {
@@ -763,7 +763,7 @@
   },
   {
     "name": "JoinServerInfo",
-    "version": 20,
+    "version": "20",
     "artifact_url": "https://forum.mcbe.jp/resources/581/download",
     "api": [
       {
@@ -895,7 +895,7 @@
   },
   {
     "name": "ClearInventory",
-    "version": 0.2,
+    "version": "0.2",
     "artifact_url": "https://forum.mcbe.jp/resources/571/download",
     "api": [
       {
@@ -962,7 +962,7 @@
   },
   {
     "name": "atkcancel",
-    "version": 10,
+    "version": "10",
     "artifact_url": "https://forum.mcbe.jp/resources/566/download",
     "api": [
       {
@@ -1053,7 +1053,7 @@
   },
   {
     "name": "PlayerStopItem",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/550/download",
     "api": [
       {
@@ -1118,7 +1118,7 @@
   },
   {
     "name": "BreakBedrock",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/545/download",
     "api": [
       {
@@ -1294,7 +1294,7 @@
   },
   {
     "name": "lovelovePlugin",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/526/download",
     "api": [
       {
@@ -1654,7 +1654,7 @@
   },
   {
     "name": "TreeCutter",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/488/download",
     "api": [
       {
@@ -1832,7 +1832,7 @@
   },
   {
     "name": "Really simple warp",
-    "version": 500,
+    "version": "500",
     "artifact_url": "https://forum.mcbe.jp/resources/280/download",
     "api": [
       {
@@ -1916,7 +1916,7 @@
   },
   {
     "name": "Sliding",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/465/download",
     "api": [
       {
@@ -1942,7 +1942,7 @@
   },
   {
     "name": "NGword",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/453/download",
     "api": [
       {
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "TeleportWorld",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/452/download",
     "api": [
       {
@@ -2001,7 +2001,7 @@
   },
   {
     "name": "ItemKiller",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/450/download",
     "api": [
       {
@@ -2118,7 +2118,7 @@
   },
   {
     "name": "questionnaire",
-    "version": 1,
+    "version": "1",
     "artifact_url": "https://forum.mcbe.jp/resources/438/download",
     "api": [
       {
@@ -2135,7 +2135,7 @@
   },
   {
     "name": "NoShootBow",
-    "version": 1,
+    "version": "1",
     "artifact_url": "https://forum.mcbe.jp/resources/434/download",
     "api": [
       {
@@ -2165,12 +2165,12 @@
   },
   {
     "name": "ExplosionProofGlowstone",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://forum.mcbe.jp/resources/431/download",
     "api": [
       {
         "from": [
-          1.0,
+          "1.0",
           "2.0.0",
           "3.0.0",
           "4.0.0"
@@ -2211,12 +2211,12 @@
   },
   {
     "name": "customkill",
-    "version": 1.5,
+    "version": "1.5",
     "artifact_url": "https://forum.mcbe.jp/resources/390/download",
     "api": [
       {
         "from": [
-          1.0,
+          "1.0",
           "2.0.0",
           "3.0.0"
         ]
@@ -2285,7 +2285,7 @@
   },
   {
     "name": "Deathmoney",
-    "version": 1.2,
+    "version": "1.2",
     "artifact_url": "https://forum.mcbe.jp/resources/415/download",
     "api": [
       {
@@ -2300,7 +2300,7 @@
   },
   {
     "name": "LuckyStone",
-    "version": 0.5,
+    "version": "0.5",
     "artifact_url": "https://forum.mcbe.jp/resources/417/download",
     "api": [
       {
@@ -2411,7 +2411,7 @@
   },
   {
     "name": "ItemTrade",
-    "version": 0.3,
+    "version": "0.3",
     "artifact_url": "https://forum.mcbe.jp/resources/338/download",
     "api": [
       {
@@ -2561,7 +2561,7 @@
   },
   {
     "name": "setName",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/394/version/809/download?file=1299",
     "api": [
       {
@@ -2576,7 +2576,7 @@
   },
   {
     "name": "setName",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/394/version/809/download?file=1301",
     "api": [
       {
@@ -2619,12 +2619,12 @@
   },
   {
     "name": "FallDamageDisable",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://forum.mcbe.jp/resources/391/download",
     "api": [
       {
         "from": [
-          1.0,
+          "1.0",
           "2.0.0",
           "3.0.0",
           "4.0.0"
@@ -2637,11 +2637,11 @@
   },
   {
     "name": "PlayerMessageCustom",
-    "version": 2.1,
+    "version": "2.1",
     "artifact_url": "https://forum.mcbe.jp/resources/389/download",
     "api": [
       {
-        "from": 3.0
+        "from": "3.0"
       }
     ],
     "deps": [
@@ -2663,11 +2663,11 @@
   },
   {
     "name": "fakehp",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://forum.mcbe.jp/resources/387/download",
     "api": [
       {
-        "from": 3.0
+        "from": "3.0"
       }
     ],
     "deps": [
@@ -2676,7 +2676,7 @@
   },
   {
     "name": "KillStreak",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/384/download",
     "api": [
       {
@@ -2693,7 +2693,7 @@
   },
   {
     "name": "OrganizeResources",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/383/download",
     "api": [
       {
@@ -2887,11 +2887,11 @@
   },
   {
     "name": "MovingData3",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/369/download",
     "api": [
       {
-        "from": 3
+        "from": "3"
       }
     ],
     "deps": [
@@ -2958,7 +2958,7 @@
   },
   {
     "name": "cloneItem",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/191/download",
     "api": [
       {
@@ -3012,7 +3012,7 @@
   },
   {
     "name": "MGTWorld",
-    "version": 5.6,
+    "version": "5.6",
     "artifact_url": "https://forum.mcbe.jp/resources/93/download",
     "api": [
       {
@@ -3028,7 +3028,7 @@
   },
   {
     "name": "Relog",
-    "version": 0.7,
+    "version": "0.7",
     "artifact_url": "https://forum.mcbe.jp/resources/358/download",
     "api": [
       {
@@ -3128,7 +3128,7 @@
     "artifact_url": "https://forum.mcbe.jp/resources/353/download",
     "api": [
       {
-        "from": 3
+        "from": "3"
       }
     ],
     "deps": [
@@ -3141,7 +3141,7 @@
     "artifact_url": "https://forum.mcbe.jp/resources/352/download",
     "api": [
       {
-        "from": 3
+        "from": "3"
       }
     ],
     "deps": [
@@ -3150,7 +3150,7 @@
   },
   {
     "name": "KillScore",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/351/download",
     "api": [
       {
@@ -3241,7 +3241,7 @@
   },
   {
     "name": "FlatPreset",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/113/download",
     "api": [
       {
@@ -3299,13 +3299,13 @@
   },
   {
     "name": "Huee-it",
-    "version": 0.8,
+    "version": "0.8",
     "artifact_url": "https://forum.mcbe.jp/resources/332/download",
     "api": [
       {
         "from": [
-          4,
-          3
+          "4",
+          "3"
         ]
       }
     ],
@@ -3378,7 +3378,7 @@
   },
   {
     "name": "NoFastBreak",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/319/download",
     "api": [
       {
@@ -3396,7 +3396,7 @@
     "api": [
       {
         "from": [
-          3.5
+          "3.5"
         ]
       }
     ],
@@ -3512,7 +3512,7 @@
   },
   {
     "name": "WorldEditPlus",
-    "version": 3.1,
+    "version": "3.1",
     "artifact_url": "https://forum.mcbe.jp/resources/107/download",
     "api": [
       {
@@ -3589,7 +3589,7 @@
   },
   {
     "name": "LevelMoneySystem",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://forum.mcbe.jp/resources/64/download",
     "api": [
       {
@@ -3630,7 +3630,7 @@
   },
   {
     "name": "ViewCompass",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://poggit.pmmp.io/r/49308/ViewCompass_dev-6.phar",
     "api": [
       {
@@ -3750,7 +3750,7 @@
   },
   {
     "name": "DeviceRecord",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/267/download",
     "api": [
       {
@@ -3782,7 +3782,7 @@
   },
   {
     "name": "AllS",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/262/download",
     "api": [
       {
@@ -3846,7 +3846,7 @@
   },
   {
     "name": "SpawnParticle",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/248/download",
     "api": [
       {
@@ -4000,7 +4000,7 @@
   },
   {
     "name": "ViewStatus",
-    "version": 2.1,
+    "version": "2.1",
     "artifact_url": "https://forum.mcbe.jp/resources/228/download",
     "api": [
       {
@@ -4329,7 +4329,7 @@
   },
   {
     "name": "RandomPotion",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/200/download",
     "api": [
       {
@@ -4439,7 +4439,7 @@
   },
   {
     "name": "MovingData2",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/184/download",
     "api": [
       {
@@ -4452,7 +4452,7 @@
   },
   {
     "name": "MovingData",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/182/download",
     "api": [
       {
@@ -4524,7 +4524,7 @@
   },
   {
     "name": "DirectlyInventory",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/108/download",
     "api": [
       {
@@ -4571,7 +4571,7 @@
   },
   {
     "name": "EcoUI",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://poggit.pmmp.io/r/40730/EcoUI_dev-3.phar",
     "api": [
       {
@@ -4638,7 +4638,7 @@
   },
   {
     "name": "OPChat",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/164/download",
     "api": [
       {
@@ -4651,7 +4651,7 @@
   },
   {
     "name": "TagShop",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/161/download",
     "api": [
       {
@@ -4677,7 +4677,7 @@
   },
   {
     "name": "NoFly",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/162/download",
     "api": [
       {
@@ -4707,7 +4707,7 @@
   },
   {
     "name": "APITools",
-    "version": 0.5,
+    "version": "0.5",
     "artifact_url": "https://forum.mcbe.jp/resources/79/download",
     "api": [
       {
@@ -4755,7 +4755,7 @@
   },
   {
     "name": "MazaiCalc",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://poggit.pmmp.io/r/34905/MazaiCalc.phar",
     "api": [
       {
@@ -4906,7 +4906,7 @@
   },
   {
     "name": "CompassTp",
-    "version": 1.1,
+    "version": "1.1",
     "artifact_url": "https://forum.mcbe.jp/resources/142/download",
     "api": [
       {
@@ -4937,7 +4937,7 @@
   },
   {
     "name": "AreaCommandGuard",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/141/download",
     "api": [
       {
@@ -4982,7 +4982,7 @@
   },
   {
     "name": "name",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/132/download",
     "api": [
       {
@@ -4995,7 +4995,7 @@
   },
   {
     "name": "SoundModuleAPI",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://raw.githubusercontent.com/MazaiCrafty/SoundModuleAPI/master/SoundModuleAPI.phar",
     "api": [
       {
@@ -5027,7 +5027,7 @@
   },
   {
     "name": "ThunderSword",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://forum.mcbe.jp/resources/66/download",
     "api": [
       {
@@ -5068,7 +5068,7 @@
   },
   {
     "name": "Omikuji",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/126/download",
     "api": [
       {
@@ -5081,12 +5081,12 @@
   },
   {
     "name": "major",
-    "version": 2.0,
+    "version": "2.0",
     "artifact_url": "https://forum.mcbe.jp/resources/125/download",
     "api": [
       {
         "from": [
-          1.0,
+          "1.0",
           "2.0.0",
           "3.0.0",
           "3.0.0-ALPHA1",
@@ -5148,7 +5148,7 @@
   },
   {
     "name": "SettingMessage",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/112/download",
     "api": [
       {
@@ -5165,7 +5165,7 @@
   },
   {
     "name": "UsefulStick",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/111/download",
     "api": [
       {
@@ -5182,7 +5182,7 @@
   },
   {
     "name": "SignCommand",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/109/download",
     "api": [
       {
@@ -5216,7 +5216,7 @@
   },
   {
     "name": "SystemControl",
-    "version": 2.2,
+    "version": "2.2",
     "artifact_url": "https://forum.mcbe.jp/resources/86/download",
     "api": [
       {
@@ -5233,7 +5233,7 @@
   },
   {
     "name": "SignSpamBlocker",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/99/download",
     "api": [
       {
@@ -5282,7 +5282,7 @@
   },
   {
     "name": "or",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/81/download",
     "api": [
       {
@@ -5329,7 +5329,7 @@
   },
   {
     "name": "CmdAtOnce",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/77/download",
     "api": [
       {
@@ -5381,7 +5381,7 @@
   },
   {
     "name": "Punishment",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/74/download",
     "api": [
       {
@@ -5425,7 +5425,7 @@
   },
   {
     "name": "Tell",
-    "version": 2.1,
+    "version": "2.1",
     "artifact_url": "https://forum.mcbe.jp/resources/69/download",
     "api": [
       {
@@ -5462,7 +5462,7 @@
   },
   {
     "name": "LevelShopSystem",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/65/download",
     "api": [
       {
@@ -5482,7 +5482,7 @@
   },
   {
     "name": "Cleaner",
-    "version": 1,
+    "version": "1",
     "artifact_url": "https://forum.mcbe.jp/resources/62/download",
     "api": [
       {
@@ -5529,7 +5529,7 @@
   },
   {
     "name": "JoinSyogo",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/55/download",
     "api": [
       {
@@ -5546,7 +5546,7 @@
   },
   {
     "name": "ChangeMetaData",
-    "version": 0.1,
+    "version": "0.1",
     "artifact_url": "https://forum.mcbe.jp/resources/50/download",
     "api": [
       {
@@ -5576,7 +5576,7 @@
   },
   {
     "name": "KD",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/48/download",
     "api": [
       {
@@ -5601,7 +5601,7 @@
   },
   {
     "name": "Chat",
-    "version": 1,
+    "version": "1",
     "artifact_url": "https://forum.mcbe.jp/resources/47/download",
     "api": [
       {
@@ -5857,7 +5857,7 @@
   },
   {
     "name": "ArrowKill",
-    "version": 1.0,
+    "version": "1.0",
     "artifact_url": "https://forum.mcbe.jp/resources/29/download",
     "api": [
       {
